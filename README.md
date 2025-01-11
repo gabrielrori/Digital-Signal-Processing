@@ -25,4 +25,3 @@ This repository contains the resources, examples, and practical demonstrations p
 7. **Signal Processing**
    - This section provides an overview of the fundamental concepts and techniques in digital signal processing.
 
-This repository aims to provide an in-depth learning avenue for those interested in the field of Digital Signal Processing.
